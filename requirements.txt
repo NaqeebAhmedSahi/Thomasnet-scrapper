@@ -1,0 +1,4 @@
+undetected-chromedriver==3.5.5
+selenium>=4.15,<4.28
+beautifulsoup4>=4.12
+lxml>=5.0
